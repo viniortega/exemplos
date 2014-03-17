@@ -6,9 +6,6 @@ Este diretório tem como principal intuito manter os exemplos utilizados, tanto 
 
     git clone https://github.com/luizpicolo/exemplos.git
     
-ou 
-
-    
 # Opiniões e Dúvidas
 
 Todas as dúvidas devem ser postas no comentário referente a postagem a qual você tem dúvida.
